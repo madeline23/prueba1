@@ -1,0 +1,66 @@
+C:\Users\PC2\AppData\Local\Temporary Projects\Apli_prueba\bin\Debug\Apli_prueba.exe.config
+C:\Users\PC2\AppData\Local\Temporary Projects\Apli_prueba\bin\Debug\Apli_prueba.exe
+C:\Users\PC2\AppData\Local\Temporary Projects\Apli_prueba\bin\Debug\Apli_prueba.pdb
+C:\Users\PC2\AppData\Local\Temporary Projects\Apli_prueba\bin\Debug\Apli_prueba.xml
+C:\Users\PC2\AppData\Local\Temporary Projects\Apli_prueba\obj\Debug\Apli_prueba.vbprojResolveAssemblyReference.cache
+C:\Users\PC2\AppData\Local\Temporary Projects\Apli_prueba\obj\Debug\Apli_prueba.Form1.resources
+C:\Users\PC2\AppData\Local\Temporary Projects\Apli_prueba\obj\Debug\Apli_prueba.Resources.resources
+C:\Users\PC2\AppData\Local\Temporary Projects\Apli_prueba\obj\Debug\Apli_prueba.vbproj.GenerateResource.Cache
+C:\Users\PC2\AppData\Local\Temporary Projects\Apli_prueba\obj\Debug\Apli_prueba.exe
+C:\Users\PC2\AppData\Local\Temporary Projects\Apli_prueba\obj\Debug\Apli_prueba.xml
+C:\Users\PC2\AppData\Local\Temporary Projects\Apli_prueba\obj\Debug\Apli_prueba.pdb
+D:\Jordan_Papi_visual\Apli_prueba\Apli_prueba\bin\Debug\Apli_prueba.exe.config
+D:\Jordan_Papi_visual\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.exe
+D:\Jordan_Papi_visual\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.xml
+D:\Jordan_Papi_visual\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.pdb
+D:\Jordan_Papi_visual\Apli_prueba\Apli_prueba\bin\Debug\Apli_prueba.exe
+D:\Jordan_Papi_visual\Apli_prueba\Apli_prueba\bin\Debug\Apli_prueba.pdb
+D:\Jordan_Papi_visual\Apli_prueba\Apli_prueba\bin\Debug\Apli_prueba.xml
+D:\Jordan_Papi_visual\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.vbprojResolveAssemblyReference.cache
+D:\Jordan_Papi_visual\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.Resources.resources
+D:\Jordan_Papi_visual\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.vbproj.GenerateResource.Cache
+D:\Jordan_Papi_visual\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.fmr_prueba.resources
+F:\Jordan_Papi_visual\Apli_prueba\Apli_prueba\bin\Debug\Apli_prueba.exe.config
+F:\Jordan_Papi_visual\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.exe
+F:\Jordan_Papi_visual\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.xml
+F:\Jordan_Papi_visual\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.pdb
+C:\Users\PC9\Documents\3BGU_FrankZabala\Apli_prueba\Apli_prueba\bin\Debug\Apli_prueba.exe.config
+C:\Users\PC9\Documents\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.exe
+C:\Users\PC9\Documents\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.xml
+C:\Users\PC9\Documents\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.pdb
+C:\Users\PC9\Documents\3BGU_FrankZabala\Apli_prueba\Apli_prueba\bin\Debug\Apli_prueba.exe
+C:\Users\PC9\Documents\3BGU_FrankZabala\Apli_prueba\Apli_prueba\bin\Debug\Apli_prueba.pdb
+C:\Users\PC9\Documents\3BGU_FrankZabala\Apli_prueba\Apli_prueba\bin\Debug\Apli_prueba.xml
+C:\Users\PC9\Documents\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.vbprojResolveAssemblyReference.cache
+C:\Users\PC9\Documents\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.fmr_prueba.resources
+C:\Users\PC9\Documents\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.Resources.resources
+C:\Users\PC9\Documents\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.vbproj.GenerateResource.Cache
+C:\Users\PC9\Documents\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.frm_prueba2.resources
+E:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\bin\Debug\Apli_prueba.exe.config
+E:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.exe
+E:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.xml
+E:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.pdb
+E:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\bin\Debug\Apli_prueba.exe
+E:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\bin\Debug\Apli_prueba.pdb
+E:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\bin\Debug\Apli_prueba.xml
+E:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.vbprojResolveAssemblyReference.cache
+E:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.fmr_prueba.resources
+E:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.frm_prueba2.resources
+E:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.Resources.resources
+E:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.vbproj.GenerateResource.Cache
+C:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\bin\Debug\Apli_prueba.exe.config
+C:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.exe
+C:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.xml
+C:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.pdb
+C:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\bin\Debug\Apli_prueba.exe
+C:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\bin\Debug\Apli_prueba.pdb
+C:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\bin\Debug\Apli_prueba.xml
+C:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.vbprojResolveAssemblyReference.cache
+C:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.fmr_prueba.resources
+C:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.frm_prueba2.resources
+C:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.Resources.resources
+C:\3BGU_FrankZabala\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.vbproj.GenerateResource.Cache
+C:\Users\Angie Castillo\Documents\Tarea\Apli_prueba\Apli_prueba\bin\Debug\Apli_prueba.exe.config
+C:\Users\Angie Castillo\Documents\Tarea\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.exe
+C:\Users\Angie Castillo\Documents\Tarea\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.xml
+C:\Users\Angie Castillo\Documents\Tarea\Apli_prueba\Apli_prueba\obj\Debug\Apli_prueba.pdb
